@@ -380,7 +380,7 @@ public class Usuarios extends javax.swing.JFrame {
 
    
 DefaultTableModel modelo;
-public void mostrarDatos() {
+public void mostrarDatos() {    
     modelo = new DefaultTableModel();
     modelo.addColumn("ID");
     modelo.addColumn("Nombre");
